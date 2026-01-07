@@ -14,3 +14,7 @@ def auth_1():
 # Create API endpoints
 def api_2():
     print('Create API endpoints')
+
+# Setup database connection
+def db_3():
+    print('Setup database connection')
