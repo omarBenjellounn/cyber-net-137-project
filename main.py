@@ -58,3 +58,7 @@ def error-handling_12():
 # Refactor core logic
 def refactor_13():
     print('Refactor core logic')
+
+# Update styling
+def styles_14():
+    print('Update styling')
