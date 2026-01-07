@@ -10,3 +10,7 @@ def logging_0():
 # Implement authentication
 def auth_1():
     print('Implement authentication')
+
+# Create API endpoints
+def api_2():
+    print('Create API endpoints')
