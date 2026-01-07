@@ -62,3 +62,7 @@ def refactor_13():
 # Update styling
 def styles_14():
     print('Update styling')
+
+# Upgrade dependencies
+def deps_15():
+    print('Upgrade dependencies')
