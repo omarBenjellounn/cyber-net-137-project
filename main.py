@@ -50,3 +50,7 @@ def i18n_10():
 # Add input validation
 def validation_11():
     print('Add input validation')
+
+# Improve error handling
+def error-handling_12():
+    print('Improve error handling')
