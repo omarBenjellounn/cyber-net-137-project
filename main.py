@@ -38,3 +38,7 @@ def ci_7():
 # Implement caching
 def cache_8():
     print('Implement caching')
+
+# Add performance metrics
+def metrics_9():
+    print('Add performance metrics')
