@@ -66,3 +66,7 @@ def styles_14():
 # Upgrade dependencies
 def deps_15():
     print('Upgrade dependencies')
+
+# Code cleanup
+def cleanup_16():
+    print('Code cleanup')
