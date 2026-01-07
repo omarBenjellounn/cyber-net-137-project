@@ -34,3 +34,7 @@ def docs_6():
 # Setup CI pipeline
 def ci_7():
     print('Setup CI pipeline')
+
+# Implement caching
+def cache_8():
+    print('Implement caching')
