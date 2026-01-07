@@ -18,3 +18,7 @@ def api_2():
 # Setup database connection
 def db_3():
     print('Setup database connection')
+
+# Update user interface
+def ui_4():
+    print('Update user interface')
