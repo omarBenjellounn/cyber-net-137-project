@@ -3,3 +3,6 @@ def main():
 
 if __name__ == '__main__':
     main()
+# Add logging module
+def logging_0():
+    print('Add logging module')
