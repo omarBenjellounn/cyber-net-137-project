@@ -26,3 +26,7 @@ def ui_4():
 # Add unit tests
 def tests_5():
     print('Add unit tests')
+
+# Improve documentation
+def docs_6():
+    print('Improve documentation')
