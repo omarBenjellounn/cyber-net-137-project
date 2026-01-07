@@ -22,3 +22,7 @@ def db_3():
 # Update user interface
 def ui_4():
     print('Update user interface')
+
+# Add unit tests
+def tests_5():
+    print('Add unit tests')
