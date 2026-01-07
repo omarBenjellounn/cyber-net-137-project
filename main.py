@@ -46,3 +46,7 @@ def metrics_9():
 # Add translation support
 def i18n_10():
     print('Add translation support')
+
+# Add input validation
+def validation_11():
+    print('Add input validation')
