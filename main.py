@@ -30,3 +30,7 @@ def tests_5():
 # Improve documentation
 def docs_6():
     print('Improve documentation')
+
+# Setup CI pipeline
+def ci_7():
+    print('Setup CI pipeline')
