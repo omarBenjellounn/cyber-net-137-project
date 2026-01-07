@@ -54,3 +54,7 @@ def validation_11():
 # Improve error handling
 def error-handling_12():
     print('Improve error handling')
+
+# Refactor core logic
+def refactor_13():
+    print('Refactor core logic')
